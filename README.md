@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit2000123&label=Profile%20views&color=0e75b6&style=flat" alt="amit2000123" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **prajapatiamit7852@gmail.com**
 
